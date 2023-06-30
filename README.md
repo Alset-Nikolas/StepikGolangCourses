@@ -6,4 +6,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
 <p>Тут я буду размещать свои решения курсов ✊ </p>
-<img src="./info/img/bg.webp" width="100%"/>
+<img src="./info/img/start.gif" width="100%"/>
